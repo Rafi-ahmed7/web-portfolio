@@ -174,3 +174,9 @@ main section{
 .section-format{
     margin: 40px 120px;
 }
+
+/* styles for resume  */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
