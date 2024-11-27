@@ -180,3 +180,18 @@ main section{
     display: flex;
     gap: 24px;
 }
+
+.experience-description, .experience-sub-title{
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+}
+.experience-title, .resume-colum-title{
+    color:#474747;
+}
+.resume-button{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+}
